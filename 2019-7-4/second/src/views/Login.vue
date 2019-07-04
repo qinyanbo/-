@@ -43,7 +43,6 @@ export default {
     };
   },
   methods:{
-    // LliI
     login(){
       this.$router.push('home');
     }
